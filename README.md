@@ -1,2 +1,17 @@
-# FATEC-JCR-4DSM-IEC-2026-1-BRUNO-PRINCE
-Disciplina de Integração e Entrega Continua - 4° semestre DSM - 2026/1
+# Portfólio – Integração e Entrega Contínua – 2026/1
+## Aluno
+- Nome: Bruno Prince Maria
+- LinkedIn:
+- GitHub: BrunoPrince1
+---
+## Estrutura
+- P1
+- P2
+- Requisitos-ABP
+- Reflexoes
+---
+## Projeto ABP
+Descrição do problema escolhido.
+---
+## Aprendizados
+Registro reflexivo sobre evolução no semestre.

@@ -17,4 +17,4 @@ Descrição do problema escolhido.
 Registro reflexivo sobre evolução no semestre.
 
 ## Teste
-CI/CD configurado na Aula 3
+CI/CD configurado na Aula 3 (2)
